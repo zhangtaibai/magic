@@ -1,0 +1,4 @@
+magic
+=====
+
+my magic book
